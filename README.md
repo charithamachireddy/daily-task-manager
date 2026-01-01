@@ -16,11 +16,10 @@ Daily Task Manager is a simple web application that helps users manage their dai
 
 ## Project Structure
 daily-task-manager/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+index.html
+style.css
+script.js
+README.md
 
 
 ## How to Run the Project
